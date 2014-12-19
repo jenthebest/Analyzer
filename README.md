@@ -1,4 +1,4 @@
-ruby_analyzer
+analyzer
 =============
 
 Analyzer.rb 
